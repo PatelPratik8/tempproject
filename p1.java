@@ -12,4 +12,9 @@ public static void main(String[] a)
   {
     System.out.prin("not ok");
   }
+	sum(5,6);
+}
+public sum(int a,int b)
+{
+	System.out.println(a+b);
 }
